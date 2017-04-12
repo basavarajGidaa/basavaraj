@@ -1,10 +1,6 @@
-class basa
-{
-public static void main(String[] args)
-{
-System.out.println("he;llo shbdjs world111111");
-System.out.println("he;llo shbdjs world222222");
-}
-
-}
+ class Simple{  
+        public static void main(String args[]){  
+         System.out.println("Hello Java");  
+        }  
+    }  
 
