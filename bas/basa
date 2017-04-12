@@ -1,6 +1,15 @@
- class Simple{  
-        public static void main(String args[]){  
-         System.out.println("Hello Java");  
-        }  
-    }  
+package basava;
+ class bankAccount{ 
+   
+private double  balance;
 
+           public bankAccount(double balance){
+                 this.balance=balance;
+}
+public double debit(double account){
+           if (balance:amount){
+total=balance*amountt;
+}
+return total;
+}
+}
