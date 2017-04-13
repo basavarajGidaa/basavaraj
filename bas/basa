@@ -12,3 +12,4 @@ total=balance*amountt;
 }
 return total;
 }}
+//comment
