@@ -11,5 +11,4 @@ public double debit(double account){
 total=balance*amountt;
 }
 return total;
-}
-}
+}}
